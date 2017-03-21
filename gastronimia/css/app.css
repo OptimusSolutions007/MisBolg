@@ -1,0 +1,74 @@
+.gatro-body{
+	background: url(../img/fondo.jpg);
+	background-repeat: no-repeat;
+	background-position: top center;
+	background-attachment: fixed;
+	background-size: cover;
+	width: 100%;
+	height: 100%;
+	margin: 0px;
+}
+div{
+  /*border: 1px solid black;*/
+}
+
+h3{
+	color: rgba(229, 125, 134, 0.9);
+}
+
+.texto{
+	text-align: right;
+}
+
+.texto2{
+	text-align: center;
+	color: rgba(171, 200, 172, 1);
+}
+.flex-color{
+	 background-color: rgba(0, 0, 0, 0.1); 
+}
+.img-icono{
+	width: 65px;
+	height: 71px;
+}
+.img-reseta{
+	text-align: center;
+	margin: 10px;
+}
+
+.col4-color{
+	background-color: rgba(89, 152, 172, 0.9);
+	
+}
+
+.col4-color2{
+	background-color: rgba(227, 195, 168, 0.9);
+	border-color: none !important;
+	border:none !important;
+}
+
+.user-icono{
+	width: 100px;
+	height: 50px;
+}
+.comida-color{
+	background-color: rgba(203, 185, 170, 0.9);
+}
+
+.comida-color2{
+	background-color: rgba(227, 195, 168, 0.9);
+}
+.color-fecha{
+	color: rgba(171, 152, 172, 1);
+}
+
+.edit-button{
+	margin: 100px;
+	border-color:  rgba(171, 152, 172, 1);
+	background-color: rgba(203, 185, 170, 0.9) !important;
+	width: 100%;
+
+}
+.edit-buscar{
+	margin: 10px;
+}

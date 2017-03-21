@@ -1,0 +1,77 @@
+.cuadrado{
+  background-color: #03a9f4;
+  text-align: left;
+  display: inline-block;
+  margin: 10px;
+}
+
+.viaje-body{
+	background: url(../img/fondo.jpg);
+	background-repeat: no-repeat;
+	background-position: top center;
+	background-attachment: fixed;
+	background-size: cover;
+	width: 100%;
+	height: 100%;
+	margin: 0px;
+}
+.color-barra{
+	background-color: #03a9f4;
+	height: 15%;
+}
+div{
+  /*border: 1px solid black;*/
+}
+
+.viaje1{
+	width: 100%;
+	height: 100%;
+}
+.viaje-col2{
+	width: 100%;
+	height:200px;
+}
+
+.viaje-col3{
+	width: 100%;
+	height:650px;
+}
+
+.playa{
+	width: 40%;
+	height:10%;
+	margin-left:30%;
+}
+.playa2{
+	width: 100%;
+	height:100%;
+}
+.autor{
+	width: 40%;
+	height:40%;
+}
+
+#roa{
+	text-align: center;
+}
+
+
+
+.header{
+	margin: 20px;
+	margin-left: 100px;
+	padding: 10px;
+}
+#contenedor{
+	height: 165px;
+}
+h5{
+	width: 100%
+}
+
+@media screen and (max-width: 640px){
+	.header{
+	margin: 10px;
+	padding: 10px;
+}
+}
